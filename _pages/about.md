@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration](/images/AIpoultry.png){: .align-right width="300px"}
+![Illustration](/images/AIpoultry.png)
 
 🧑‍💻 I'm a Ph.D. student from [Texas A&M University](https://www.tamu.edu/)
 
