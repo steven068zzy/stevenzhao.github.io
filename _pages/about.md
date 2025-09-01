@@ -14,6 +14,7 @@ redirect_from:
 ✉️ You can find me here:
 
 Email: ziyuanzhao@tamu.edu
+
 LinkedIn: [Homepage](linkedin.com/in/steven-zhao-89195326b)
 
 A data-driven personal website
