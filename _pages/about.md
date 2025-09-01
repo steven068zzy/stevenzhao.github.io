@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 🧑‍💻 I'm a Ph.D. student from [Texas A&M University](https://www.tamu.edu/)
-🤖 My research direction is Robotics and AI solutions for precision poultry/livestock farming.
 
+🤖 My research direction is Robotics and AI solutions for precision poultry and livestock farming.
 
+✉️ You can find me here:
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Email: ziyuanzhao@tamu.edu
+[LinkedIn:](linkedin.com/in/steven-zhao-89195326b)
 
 A data-driven personal website
 ======
