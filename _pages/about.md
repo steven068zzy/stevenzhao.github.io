@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration](/images/stevenhead.JPG)
+[ai](/images/stevenhead.JPG)
 
 🧑‍💻 I'm a Ph.D. student from [Texas A&M University](https://www.tamu.edu/)
 
