@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍💻 I'm a Ph.D. student from [Texas A&M University] (https://www.tamu.edu/)
+🧑‍💻 I'm a Ph.D. student from [Texas A&M University](https://www.tamu.edu/)
 🤖 My research direction is Robotics and AI solutions for precision poultry/livestock farming.
 
 
