@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![ai](images/AIAI.jpg)
-
+![ai](images/AIAI.jpg){: .align-right with="300px"}
 🧑‍💻 I'm a Ph.D. student from [Texas A&M University](https://www.tamu.edu/)
 
 🤖 My research direction is Robotics and AI solutions for precision poultry and livestock farming.
