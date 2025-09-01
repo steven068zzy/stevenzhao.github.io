@@ -17,7 +17,7 @@ Email: ziyuanzhao@tamu.edu
 
 LinkedIn: [Homepage](linkedin.com/in/steven-zhao-89195326b)
 
-<img src="/assets/img/AIpoultry.png" alt="Research Image" align="right" width="300">
+(/images/AIpoultry.png){: .align-right width="300"}
 
 A data-driven personal website
 ======
