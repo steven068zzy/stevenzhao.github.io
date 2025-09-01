@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration](/images/AIpoultry.png)
+![Illustration](/images/AI.png)
 
 🧑‍💻 I'm a Ph.D. student from [Texas A&M University](https://www.tamu.edu/)
 
