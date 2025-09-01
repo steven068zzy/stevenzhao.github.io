@@ -1,13 +1,8 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-end
+# 交给 GitHub Pages 统一管理 Jekyll 与插件版本
+gem "github-pages", group: :jekyll_plugins
 
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+# 仅在本地 Ruby 3.x 预览需要（让 jekyll serve 正常跑），不是必须
+gem "webrick", "~> 1.8"
+
