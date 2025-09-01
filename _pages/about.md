@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Illustration](/images/AIpoultry.png){: .align-right width="300"}
+
 🧑‍💻 I'm a Ph.D. student from [Texas A&M University](https://www.tamu.edu/)
 
 🤖 My research direction is Robotics and AI solutions for precision poultry and livestock farming.
@@ -16,8 +18,6 @@ redirect_from:
 Email: ziyuanzhao@tamu.edu
 
 LinkedIn: [Homepage](linkedin.com/in/steven-zhao-89195326b)
-
-(/images/AIpoultry.png){: .align-right width="300"}
 
 A data-driven personal website
 ======
